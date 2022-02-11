@@ -2,6 +2,7 @@
 This Python 3 tutorial course aims to teach everyone the basics of programming computers using Python. The course has no pre-requisites and avoids all but the simplest mathematics. 
 
 ## ⭐️ Course Contents ⭐️
+### Introduction
 ⌨️ Why Program?<br/>
 ⌨️ Why Program? - Hardware Architecture<br/>
 ⌨️ Python 3 Windows Installation<br/>
